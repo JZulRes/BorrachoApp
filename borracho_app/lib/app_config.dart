@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'theme_data/theme_data.dart';
-import 'widgets/hame_page.dart';
+import 'widgets/home_page.dart';
 
 class AppConfig extends StatelessWidget {
   const AppConfig({super.key});
